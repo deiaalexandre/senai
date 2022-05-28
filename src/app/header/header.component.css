@@ -1,0 +1,17 @@
+.mat-toolbar-row{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 26px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+}
+#im{
+    width: 150px;
+    height: 50px;
+    padding: 20px;
+    
+}
